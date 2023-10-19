@@ -13,83 +13,83 @@ body html {
 }
 
 .div1 {
-  grid-area: 1 / 1 / 2 / 2;
+  grid-area: 1/1/2/2;
   background-image: url(/img/145909.jpg);
 }
 .div2 {
-  grid-area: 1 / 2 / 2 / 3;
+  grid-area: 1/2/2/3;
   background-image: url(/img/Budh.jpg);
 }
 .div3 {
-  grid-area: 2 / 1 / 3 / 3;
+  grid-area: 2/1/3/3;
   background-image: url(/img/dog.jpg);
 }
 .div4 {
-  grid-area: 3 / 1 / 5 / 3;
+  grid-area: 3/1/5/3;
   background-image: url(/img/dog.jpg);
 }
 .div5 {
-  grid-area: 5 / 1 / 6 / 2;
+  grid-area: 5/1/6/2;
   background-image: url(/img/face.jpg);
 }
 .div6 {
-  grid-area: 5 / 2 / 6 / 3;
+  grid-area: 5/2/6/3;
   background-image: url(/img/images.jpg);
 }
 .div7 {
-  grid-area: 1 / 3 / 2 / 4;
+  grid-area: 1/3/2/4;
   background-image: url(/img/istockp.jpg);
 }
 .div8 {
-  grid-area: 1 / 4 / 3 / 5;
+  grid-area: 1/4/3/5;
   background-image: url(/img/monk.jpg);
 }
 .div9 {
-  grid-area: 2 / 3 / 4 / 4;
+  grid-area: 2/3/4/4;
   background-image: url(/img/monkey.jpg);
 }
 .div10 {
-  grid-area: 3 / 4 / 4 / 5;
+  grid-area: 3/4/4/5;
   background-image: url(/img/redcat.jpg);
 }
 .div11 {
-  grid-area: 4 / 3 / 6 / 5;
+  grid-area: 4/3/6/5;
   background-image: url(/img/smalldog.jpg);
 }
 .div12 {
-  grid-area: 1 / 5 / 2 / 6;
+  grid-area: 1/5/2/6;
   background-image: url(/img/Thinking.jpg);
 }
 .div13 {
-  grid-area: 1 / 6 / 2 / 8;
+  grid-area: 1/6/2/8;
   background-image: url(/img/top.jpg);
 }
 .div14 {
-  grid-area: 1 / 8 / 3 / 9;
+  grid-area: 1/8/3/9;
   background-image: url(/img/vizsla-running.jpg);
 }
 .div15 {
-  grid-area: 2 / 7 / 3 / 8;
+  grid-area: 2/7/3/8;
   background-image: url(/img/women.jpg);
 }
 .div16 {
-  grid-area: 2 / 5 / 4 / 7;
+  grid-area: 2/5/4/7;
   background-image: url(/img/145909.jpg);
 }
 .div17 {
-  grid-area: 4 / 5 / 6 / 6;
+  grid-area: 4/5/6/6;
   background-image: url(/img/dog.jpg);
 }
 .div18 {
-  grid-area: 4 / 6 / 5 / 7;
+  grid-area: 4/6/5/7;
   background-image: url(/img/monk.jpg);
 }
 .div19 {
-  grid-area: 5 / 6 / 6 / 7;
+  grid-area: 5/6/6/7;
   background-image: url(/img/images.jpg);
 }
 .div20 {
-  grid-area: 3 / 7 / 6 / 9;
+  grid-area: 3/7/6/9;
   background-image: url(/img/Thinking.jpg);
 }
 
